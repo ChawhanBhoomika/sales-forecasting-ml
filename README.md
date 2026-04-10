@@ -86,3 +86,28 @@ This project predicts **future daily sales at store level** using historical dat
 ---
 
 ## 🔹 Project Structure
+sales-forecasting-project/
+│
+├── data/
+├── notebooks/
+│ └── sales_forecasting.ipynb
+├── images/
+├── README.md
+└── requirements.txt
+
+---
+
+## 🔹 Future Improvements
+- Deploy model using Streamlit
+- Add real-time forecasting
+- Try deep learning models (LSTM)
+
+---
+
+## 🔹 Author
+**Bhoomika Chawhan**
+
+---
+
+## 🔹 Conclusion
+This project demonstrates how combining **time series analysis with machine learning** can significantly improve forecasting accuracy and provide actionable business insights.
